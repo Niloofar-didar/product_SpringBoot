@@ -1,4 +1,5 @@
-This is a simple project uses spring boot API to create a database of products including name, price, code, discount and more. 
+This is a simple project that leverages spring boot API to create a database of products with attributes of name, price, code, discount and more. 
+This is implemented in IntelliJ IDEA 2023.3.6 (Ultimate Edition) using Java and springframework.
 We can add any product via below command in terminal:
 $body = @{
      code = "5"     
